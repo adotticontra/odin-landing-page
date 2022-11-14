@@ -1,0 +1,29 @@
+@media only screen and (max-width: 767px) {
+    #header {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    #navigation ul {
+        justify-content: center;
+    }
+    #main {
+        flex-wrap: wrap;
+    }
+    #main_text {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    #main_image {
+        width: 100%;
+    }
+    #thumbnails {
+        flex-wrap: wrap;
+    }
+    #quote {
+        font-size: 18px;
+    }
+    #action {
+        flex-wrap: wrap;
+    }
+}
